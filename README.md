@@ -1,9 +1,9 @@
-##Typetester Web App
+# Typetester Web App
 
 This repository contains all of the source code for a type testing web application originally developed by a fellow Oregon Stater, Joseph Kirkpatrick
 His application was revamped for the final cumulative group project for CS340 Databases.
 
-##Project Additions for Databases Final Project
+## Project Additions for Databases Final Project
 
 The final project for CS340 required that class groups of two submit a web application available on the local Oregon State Network.
 As a group myself and Joseph Kirkpatrick made substantial improvements to the web application. The final project submission contained the following features:
